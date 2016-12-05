@@ -1,2 +1,2 @@
-# cp-and-algrithms
+# cp-and-algorithms
 Competitive Programming and Algorithms 
